@@ -1,0 +1,16 @@
+{
+    "name": "BEPUphysics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c667093c878d9ce46b863742eab4e5b3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
